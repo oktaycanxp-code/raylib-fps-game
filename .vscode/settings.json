@@ -1,0 +1,7 @@
+{
+    "cmake.configureSettings": {
+        "RAYLIB_PATH": "C:/raylib"
+    },
+    "cmake.buildDirectory": "${workspaceFolder}/build",
+    "C_Cpp.default.cppStandard": "c++17"
+}
